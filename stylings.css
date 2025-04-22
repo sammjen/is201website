@@ -1,0 +1,54 @@
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.backgroundcolor{
+    background-color: rgb(255, 255, 213);
+}
+
+.mainbody {
+    position: absolute;
+    top: 200px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+}
+
+.header{
+    top: 250px;
+    left: 5px;
+    right: 5px;
+    height: 40px;
+    z-index: 1;
+}
+
+.subheader{
+    float: right;
+}
+
+ul{
+    color: gray;
+}
+
+.rightmenu{
+    position: absolute;
+    top: 114px;
+    right: 150px;
+    width: 200px;
+    bottom: 39px;
+    z-index: 1;
+    padding-top: 40px;
+}
+
+h2{
+    color: rgb(64, 64, 64);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+a{
+    font-size: 20px;
+}
